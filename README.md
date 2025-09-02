@@ -1,6 +1,5 @@
 # test
 a simple weather widget
 
-[![Weather 1](https://i.postimg.cc/LJL2WXb7/weather1.png)](https://postimg.cc/LJL2WXb7)
-
-[![Weather 2](https://i.postimg.cc/67hw9Pwf/weather2.png)](https://postimg.cc/67hw9Pwf)
+<img src="https://i.postimg.cc/LJL2WXb7/weather1.png" alt="Weather 1" width="400">
+<img src="https://i.postimg.cc/67hw9Pwf/weather2.png" alt="Weather 2" width="400">
